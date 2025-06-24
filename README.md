@@ -64,6 +64,6 @@ This application requires an API key from OpenWeatherMap to fetch weather data.
 3. Press Enter or click the search button to view the current weather conditions for that city.
 
 
-### Demo
+
 
 📄 **Feel free to explore, fork, and contribute!**
